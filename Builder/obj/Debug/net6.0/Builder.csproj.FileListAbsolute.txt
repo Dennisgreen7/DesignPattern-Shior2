@@ -1,0 +1,16 @@
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\bin\Debug\net6.0\Builder.exe
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\bin\Debug\net6.0\Builder.deps.json
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\bin\Debug\net6.0\Builder.dll
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\bin\Debug\net6.0\ref\Builder.dll
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\bin\Debug\net6.0\Builder.pdb
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\obj\Debug\net6.0\Builder.GlobalUsings.g.cs
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\obj\Debug\net6.0\Builder.csproj.AssemblyReference.cache
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\obj\Debug\net6.0\Builder.dll
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\obj\Debug\net6.0\ref\Builder.dll
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\obj\Debug\net6.0\Builder.pdb
+C:\Dot.Net\DesignPatterns\Shior2\HM\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache
